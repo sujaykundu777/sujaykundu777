@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Thanks for stopping by ! 
-<!--
-**sujaykundu777/sujaykundu777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Thanks for stopping by ! Don't forget to follow me if you like my work.
+
+<a href="https://sujaykundu.com/blog"> Blog </a> | <a href="https://twitter.com/xplor4r</a> 
