@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for stopping by ! Also, I blog at [Hack4r](https://hack4r.com)
+Thanks for stopping by ! Also, I share my learnings at [Hack4r](https://hack4r.com)
 
 My Current Tech Stack - NodeJS, Express, Typescript, React, Redux, Mongodb, Graphql, Docker 
 
