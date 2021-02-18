@@ -2,7 +2,7 @@
 
 Thanks for stopping by ! 
 
-Follow my blog here [Dev](https://dev.to/sujaykundu777) | [Hack4r](https://hack4r.com)
+I write on Tech here [Dev](https://dev.to/sujaykundu777) | [Hack4r](https://hack4r.com)
 
 My Current Tech Stack - NodeJS, Express, Typescript, React, Redux, Jest, PostgreSQL, Mongodb, Graphql, Docker 
 
