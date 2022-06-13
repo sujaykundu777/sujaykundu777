@@ -30,15 +30,15 @@ you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, No
  
  <h1 align="center">Hi 👋, I'm Sujay Kundu</h1>
 <h3 align="center">A passionate Full Stack Web Developer.<h3> 
-<h4 align="center">I am very passionate and enthusiastic about Coding and Web development. I am very interested to learn new things and trying to implement in reality.</h4>
+
 <ul>
-<li>🌱 I’m currently learning Full Stack Web Development and Data Structures & Algorithms. <br/>
-<li>💬 Ask me about HTML, CSS, JavaScript, ExpressJS, NodeJS, MongoDB and ReactJS.
+<li>🌱 I’m currently learning Full Stack Web Development using Java and Data Structures & Algorithms. <br/>
+<li>💬 Ask me about HTML, CSS, JavaScript, ExpressJS, NodeJS, MongoDB, Vue and ReactJS.
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gireeshkumarediga&label=Profile%20views&color=0e75b6&style=flat" alt="gireeshkumarediga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaykundu777&label=Profile%20views&color=0e75b6&style=flat" alt="sujaykundu777" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/gowdgirishkumar" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gowdgirishkumar?logo=twitter&style=for-the-badge" alt="https://twitter.com/gowdgirishkumar" /></a> </p> -->
+<!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/xplor4r" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/xplor4r?logo=twitter&style=for-the-badge" alt="https://twitter.com/xplor4r" /></a> </p> -->
 
 - 👨‍💻 I blog about web engineering at [https://sujaykundu.com](https://sujaykundu.com)
 
