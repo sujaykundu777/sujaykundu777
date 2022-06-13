@@ -1,10 +1,8 @@
 <!-- ##                                                                    Hi, I am Sujay Kundu
 <hr />
 
-**I am very passionate about Coding and Web development. I am very interested to learn new things and trying to implement in reality.** 
-
-I'm currently learning **Full Stack web development and Data Structure and Algorithms** 
-you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, Node JS and React JS**
+I'm currently learning **Full Stack web development in Java and Data Structure and Algorithms** 
+you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, Node JS, Vue JS, React JS**
 
 ### Languages and Tools :- 
 
