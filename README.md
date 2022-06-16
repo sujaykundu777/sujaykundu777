@@ -1,9 +1,6 @@
 <!-- ##                                                                    Hi, I am Sujay Kundu
 <hr />
 
-I'm currently learning **Full Stack web development in Java and Data Structure and Algorithms** 
-you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, Node JS, Vue JS, React JS**
-
 ### Languages and Tools :- 
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,12 +26,7 @@ you can check my knowledge about **HTML, CSS, JavaScript, ExpressJS, MongoDB, No
  -->
  
  <h1 align="center">Hi 👋, I'm Sujay Kundu</h1>
-<h3 align="center">A passionate Full Stack Web Developer.<h3> 
-
-<ul>
-<li>🌱 I’m currently learning Full Stack Web Development using Java and Data Structures & Algorithms. <br/>
-<li>💬 Ask me about HTML, CSS, JavaScript, ExpressJS, NodeJS, MongoDB, Vue and ReactJS.
-</ul>
+<h3 align="center">Full Stack Web Developer.<h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaykundu777&label=Profile%20views&color=0e75b6&style=flat" alt="sujaykundu777" /> </p>
 
