@@ -33,7 +33,11 @@
 <!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/xplor4r" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/xplor4r?logo=twitter&style=for-the-badge" alt="https://twitter.com/xplor4r" /></a> </p> -->
 
 - 👨‍💻 I blog about web engineering at [https://sujaykundu.com](https://sujaykundu.com)
-
+ <h3 align="left"> Free Templates, Themes and Plugins </h3>
+ <ul>
+  <li> Wordpress Themes - <a href="https://github.com/sujaykundu777/wp-themes"> WP Themes </a> </li>
+ </ul>
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
