@@ -33,10 +33,6 @@
 <!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/xplor4r" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/xplor4r?logo=twitter&style=for-the-badge" alt="https://twitter.com/xplor4r" /></a> </p> -->
 
 - 👨‍💻 I blog about Full Stack Engineering at [https://sujaykundu.com/blog](https://sujaykundu.com/blog)
- <h3 align="left"> Free Templates, Themes and Plugins </h3>
- <ul>
-  <li> Wordpress Themes - <a href="https://github.com/sujaykundu777/wp-themes"> WP Themes </a> </li>
- </ul>
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
