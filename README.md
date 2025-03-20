@@ -33,7 +33,9 @@
 <!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/xplor4r" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/xplor4r?logo=twitter&style=for-the-badge" alt="https://twitter.com/xplor4r" /></a> </p> -->
 
 - 👨‍💻 Checkout my [Portfolio](https://sujaykundu.com)
--  I also [blog](https://xplor4r.com) about Full Stack Web Engineering.
+- 💬 Drop a message at [Guestbook](https://sujaykundu.com/guestbook)
+- 📄 View/Download my [Resume](https://sujaykundu777.github.io)
+
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
